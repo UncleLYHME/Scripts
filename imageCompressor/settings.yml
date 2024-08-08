@@ -1,0 +1,7 @@
+directories:
+  source: C:\Minimizer\Pending
+  destination: C:\Minimizer\Completed
+files:
+  remove:
+    - '*.py'
+    - .DS_Store

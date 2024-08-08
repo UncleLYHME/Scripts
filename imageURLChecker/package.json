@@ -1,0 +1,14 @@
+{
+  "name": "imageURLChecker",
+  "version": "1.0.0",
+  "description": "Loops through a text file of image links, and sorts if a image exists or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uncle LYHME",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}

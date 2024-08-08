@@ -1,0 +1,15 @@
+{
+  "name": "imageRename",
+  "version": "1.0.0",
+  "description": "Loops through a csv file and renames files based on a set column.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uncle LYHME",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}

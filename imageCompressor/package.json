@@ -1,0 +1,17 @@
+{
+  "name": "imageCompressor",
+  "version": "1.0.0",
+  "description": "Compresses images, logs results, and removes specified files automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uncle LYHME",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.5",
+    "js-yaml": "^4.1.0",
+    "path": "^0.12.7",
+    "sharp": "^0.32.6"
+  }
+}

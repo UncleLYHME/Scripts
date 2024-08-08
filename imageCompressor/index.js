@@ -9,7 +9,7 @@ function getCurrentTimestamp() {
   return `[${now.toLocaleTimeString()}]`;
 }
 
-console.log(`${getCurrentTimestamp()} ${'Loaded Minimizer v1.0'}`);
+console.log(`${getCurrentTimestamp()} ${'Loaded imageCompressor v1.1'}`);
 
 async function findAvailableFilename(filename, destinationDir) {
   let index = 2;
